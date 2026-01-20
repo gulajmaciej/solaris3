@@ -60,6 +60,12 @@ Example:
 python -m game --cli --decision-mode hybrid
 ```
 
+LLM debug example:
+
+```
+python -m pdb -m game --decision-mode llm
+```
+
 ## Data Storage
 
 Runs are stored as TinyDB JSON files under `data/`:
