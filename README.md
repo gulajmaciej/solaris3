@@ -1,4 +1,4 @@
-# Solaris2 Prototype
+# Solaris3 Prototype
 
 Run the game loop from the repo root:
 
@@ -18,3 +18,8 @@ GameState fields:
 - earth_pressure
 - station_power
 - turn
+
+Docs:
+
+- Instrument Specialist: `docs/instrument_specialist.md`
+- Crew Officer: `docs/crew_officer.md`
