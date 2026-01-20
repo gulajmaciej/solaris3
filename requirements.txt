@@ -1,0 +1,4 @@
+tinydb
+langgraph
+langchain-ollama
+textual>=0.60

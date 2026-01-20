@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "langgraph",
+    "langchain-ollama",
+    "./"
+  ],
+  "graphs": {
+    "instrument_specialist": "./agents/instrument_specialist/graph.py:build_graph",
+    "crew_officer": "./agents/crew_officer/graph.py:build_graph"
+  }
+}
